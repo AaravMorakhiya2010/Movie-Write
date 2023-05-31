@@ -1,0 +1,266 @@
+#main {
+  text-align: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  background-size: cover;
+  flood-opacity: 50%;
+  z-index: 100;
+  font-size: 20px;
+  font-family: 'MainFont';
+  background-repeat: no-repeat;
+  background-position: left;
+  /* add any other desired styles */
+}
+
+body {
+  background-image: url(/Image/purple-gradient-vector-background-design-colorised-red-purple-dark-wallpaper-template_293525-1111.jpg );
+  background-position: center;
+  background-size: cover;
+  height: 400px;
+  /* add any other desired styles */
+}
+
+#AaravandArnav {
+  text-align: center;
+  border-radius: 5%;
+}
+
+@font-face {
+  font-family: 'MainFont';
+  src: url('/Font/Space\ Crusaders\ Italic.otf');
+}
+
+#first {
+  text-align: center;
+  font-size: 42px;
+  font-family: 'MainFont';
+  color: white;
+  margin-top: 100px;
+}
+
+#Coming {
+
+  margin-bottom: 0px;
+  transition-property: color;
+  transition-duration: 0.5s;
+  transition-delay: 0.1s;
+  transition-timing-function: linear;
+}
+
+#Coming:hover {
+  color: rgb(255, 55, 35);
+}
+
+#second {
+  width: 100.6%;
+  top: 0px;
+  left: 0px;
+  background-color: white;
+  font-family: 'MainFont';
+  text-align: center;
+  font-size: 35px;
+}
+
+#Image {
+  border-radius: 5%;
+  text-align: start;
+}
+
+#Avengers,
+#spider-man,
+#IronMan,
+#AntMan {
+
+  border-radius: 5%;
+}
+
+#Avengers:hover,
+#spider-man:hover,
+#IronMan:hover,
+#AntMan:hover {
+  box-shadow: 3px 4px 2px rgba(0, 0, 0, 0.6);
+
+}
+
+#Avengers,
+#spider-man,
+#IronMan,
+#AntMan {
+  margin-left: 5px;
+  transition-property: width;
+  transition-duration: 0.3s;
+  transition-delay: 0.3s;
+  transition-timing-function: linear;
+
+}
+
+#Avengers:hover,
+#spider-man:hover,
+#IronMan:hover,
+#AntMan:hover {
+  width: 24%;
+
+}
+
+#second h1 {
+  margin-bottom: 5px;
+  margin-top: 10px;
+}
+
+#main1 {
+  text-align: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: black;
+
+  color: white;
+
+
+  background-size: cover;
+  flood-opacity: 50%;
+  z-index: 100;
+  font-size: 20px;
+  font-family: 'MainFont';
+  background-repeat: no-repeat;
+
+
+  background-position: left;
+  /* add any other desired styles */
+}
+
+#body {
+  background-image: url(/Image/rm218-bb-07.jpg);
+
+
+  background-position: center;
+  background-size: cover;
+  height: 900px;
+  /* add any other desired styles */
+}
+
+@font-face {
+  font-family: 'MainFont';
+  src: url('/Font/Space\ Crusaders\ Italic.otf');
+}
+
+#table1 {
+  margin-top: 110px;
+  display: flex;
+  margin-bottom: 10px;
+}
+
+#first1 {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+#aven {
+  float: left;
+}
+
+button {
+  background-color: black;
+  color: white;
+  border: 1px solid goldenrod;
+  border-radius: 12%;
+  font-size: 14px;
+}
+
+#dis {
+  font-family: 'dis';
+
+}
+
+@font-face {
+  font-family: 'dis';
+  src: url(/Font/Space\ Crusaders\ Italic.otf);
+}
+
+#Chapter {
+  font-family: 'dis';
+  font-size: 50px;
+  margin-bottom: 10px;
+}
+
+#Copy {
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  width: 100.6%;
+  background-color: #1b1b1b;
+  color: white;
+  font-size: 120%;
+  font-family: 'dis';
+}
+
+#Copy h3 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+#buttonn {
+  position: fixed;
+  bottom: 84%;
+  right: 0;
+  padding: 8px;
+
+
+}
+
+#mute {
+
+  border: 1px solid white;
+  border-radius: 1%;
+  background-color: #000;
+  color: white;
+
+  /* padding: 20px 40px; */
+  text-align: center;
+  text-decoration: none;
+
+  font-size: 24px;
+  margin: 4px 2px;
+  cursor: pointer;
+
+
+}
+
+#main2{
+   text-align: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: black;
+
+  color: white;
+
+
+  background-size: cover;
+  flood-opacity: 50%;
+  z-index: 100;
+  font-size: 25px;
+  font-family: 'MainFont';
+  background-repeat: no-repeat;
+
+
+  background-position: left;
+  /* add any other desired styles */
+}
+#main2 h1{
+  margin: 20px;
+}
+#sketch{
+margin-top: 100px;
+
+}
+  
